@@ -1,4 +1,5 @@
 # CoolAnimationsSpa
+Just a simple animation Single Page Application utilizing the power or Angular2
 
 This project was generated with
 [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
@@ -16,7 +17,8 @@ a "change once - reflect everywhere" approach.
       initialise your project using gitinit
       push your code to master
       you will need to install angular-cli-ghpages to deploy the project with a build from dist folder.
-# thanks person at http://aniri.ro/geek/development/how-to-host-an-angular2-app-on-github-pages-using-angular-cli/
+...
+thanks person at http://aniri.ro/geek/development/how-to-host-an-angular2-app-on-github-pages-using-angular-cli/
 for walking me through this process!!
 
 2.Hosting on GitHub using gh-pages. This is essentially the 'poor-man's(lady?) method of
