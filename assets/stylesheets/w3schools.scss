@@ -1,0 +1,24 @@
+
+#infodata {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#infodata td, #infodata th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#infodata tr:nth-child(even){background-color: #f2f2f2;}
+
+#infodata tr:hover {background-color: #ddd;}
+
+#infodata th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
